@@ -71,3 +71,5 @@ const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; // Change this 
 let myStr = "Jello World";
 myStr = "Hello World"; // Change this line
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2]; // Change this line
