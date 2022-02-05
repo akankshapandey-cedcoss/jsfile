@@ -60,3 +60,6 @@ let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
 const myName = "abc";
 const myStr = "hi, name " + myName + ",efg";
+const someAdjective = "abc";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
