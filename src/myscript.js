@@ -76,3 +76,8 @@ const thirdLetterOfLastName = lastName[2]; // Change this line
 const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this lineconst lastName = "Lovelace";
 const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks  =  myNoun +", " + myAdjective +", " + myVerb + ", " + myAdverb + ", " ;// Change this line
