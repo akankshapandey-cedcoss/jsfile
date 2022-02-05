@@ -105,4 +105,11 @@ const removedFromMyArray = myArray.shift();
 const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35])
-const myList = [["Banana", 3], ["Apple", 4], ["Orange", 5], ["Peach", 6], ["Pineaple", 7]];;
+const myList = [["Banana", 3], ["Apple", 4], ["Orange", 5], ["Peach", 6], ["Pineaple", 7]];
+function reusableFunction()
+{ 
+console.log("Hi World");
+
+
+}
+reusableFunction();
