@@ -66,3 +66,6 @@ myStr += someAdjective;
 let lastNameLength = 0;
 const lastName = "Lovelace";
 lastNameLength = lastName.length;
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+firstLetterOfLastName = lastName[0]; // Change this line
