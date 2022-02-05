@@ -68,4 +68,6 @@ const lastName = "Lovelace";
 lastNameLength = lastName.length;
 let firstLetterOfLastName = "";
 const lastName = "Lovelace";
-firstLetterOfLastName = lastName[0]; // Change this line
+firstLetterOfLastName = lastName[0]; // Change this 
+let myStr = "Jello World";
+myStr = "Hello World"; // Change this line
