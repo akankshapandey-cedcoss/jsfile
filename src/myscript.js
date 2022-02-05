@@ -189,3 +189,17 @@ function processArg(num) {
 var processeArg = 2;
 
 processed = processArg(7);
+function nextInLine(arr, item) {
+    arr.push(item);
+   var returnable_value = arr[0];
+   arr.shift();
+   return returnable_value;  
+ }
+ 
+ // Setup
+ const testArr = [1, 2, 3, 4, 5];
+ 
+ // Display code
+ console.log("Before: " + JSON.stringify(testArr));
+ console.log(nextInLine(testArr, 6));
+ console.log("After: " + JSON.stringify(testArr));
