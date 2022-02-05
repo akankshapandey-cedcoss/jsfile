@@ -82,3 +82,4 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks  =  myNoun +", " + myAdjective +", " + myVerb + ", " + myAdverb + ", " ;// Change this line
 const myArray = ["peanut butter",10];
+const myArray = [["ram"],[10]];
