@@ -24,3 +24,4 @@ myVar++;
 let myVar = 11;
 myVar --;
 const myDecimal =5.7;
+const product = 1.0 * 5.0;
