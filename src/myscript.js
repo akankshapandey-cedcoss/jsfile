@@ -63,3 +63,6 @@ const myStr = "hi, name " + myName + ",efg";
 const someAdjective = "abc";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
