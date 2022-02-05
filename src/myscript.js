@@ -58,3 +58,5 @@ const myStr =
 const myStr = "This is the start." + " This is the end.";// Change this line
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
+const myName = "abc";
+const myStr = "hi, name " + myName + ",efg";
