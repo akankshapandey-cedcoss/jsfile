@@ -1,13 +1,11 @@
 // this is a file//
 /* this is not a file */
-var a;
-a=5;
-var b;
-b=10;
-var c;
-c="I am a";
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
 
-
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+// Variable assignments
+ studlyCapVar= 10;
+ properCamelCase= "A String";
+ titleCaseOver= 9000;
