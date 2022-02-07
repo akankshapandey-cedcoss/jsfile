@@ -6,14 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <script src="myscript.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
-    <script>
-// this is a file//
-/* this is not a file */
-var a;
-a=7;
-</script>
+    <form name=details>
+        <table>
+         <tr><td>product id:<input type=text id="pid" name=pid></td></tr>
+         <tr><td>product name:<input type=text id="pname" name=pname></td></tr>
+         <tr><td>product price :<input type=text id="pprice" name=pprice></td></tr>
+        </table>
+        <input type="button" value="ADD PRODUCT" onclick="display();">
+         </form>
+         
 </body>
 </html>
